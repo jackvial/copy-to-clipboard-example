@@ -1,0 +1,23 @@
+{
+  "name": "copy-to-clipboard-example",
+  "version": "1.0.0",
+  "description": "Copy email to clipboard example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jackvial/copy-to-clipboard-example.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jackvial/copy-to-clipboard-example/issues"
+  },
+  "homepage": "https://github.com/jackvial/copy-to-clipboard-example#readme",
+  "dependencies": {
+    "bootstrap": "^3.3.7",
+    "clipboard": "^1.7.1"
+  }
+}
